@@ -1,7 +1,7 @@
 <?php
 $articulo = "10"
 
-if($articulos <12) {
+if( $articulos <12) {
     echo "caja rapida";
 } else{
     echo "caja normal";
